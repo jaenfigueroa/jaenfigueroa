@@ -40,7 +40,7 @@
 
 
 <div>
-<img src="./assets/arbolito5.gif"  width="68%" />
+<img src="./assets/arbolito5.gif"  width="65%" />
 </div>
 
 
