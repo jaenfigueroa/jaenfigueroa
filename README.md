@@ -122,7 +122,7 @@ To change the landscape, use the L key...
 ## 🚀 Github Stats
 
 
-<div  >
+<div  width="100%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true )
     
