@@ -122,13 +122,14 @@ To change the landscape, use the L key...
 ## 🚀 Github Stats
 
 
-<div  width="100%">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true )
+<div align="center">
     
-![Anurag's GitHub stats](http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true" width="45%" />
+    
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true"  width="45%" /> 
 
 </div>
+
 
 <br/>
 
