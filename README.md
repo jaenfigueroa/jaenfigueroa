@@ -82,7 +82,7 @@
 ## 💡 My latest projects
 
 <p align="left">
-<a href="https://github.com/jaenfigueroa/eCommerce"><img src="./assets/ecommerce.png" width="250px" align="left" /></a><br>
+<a href="https://github.com/jaenfigueroa/eCommerce"><img src="./assets/ecommerce.png" width="260px" align="left" /></a>
 <a href="https://github.com/jaenfigueroa/eCommerce" ><strong>eCommerce</strong></a>
 <br>Users should be able to:
 View the menu items or plates on the left side of the screen and add them to your cart on the right side.<br>
@@ -93,7 +93,7 @@ When a plate is added to your cart, the Subtotal and Totals will automatically u
   
   
 <p align="left">
-<a href="https://github.com/jaenfigueroa/Pomodoro-timer"><img src="./assets/reloj.png" width="250px" align="left" /></a><br>
+<a href="https://github.com/jaenfigueroa/Pomodoro-timer"><img src="./assets/reloj.png" width="260px" align="left" /></a>
 <a href="https://github.com/jaenfigueroa/Pomodoro-timer" ><strong>Pomodoro Timer</strong></a><br>
 Users should be able to:
 Start the timer by clicking on the start link/button.
@@ -105,7 +105,7 @@ Once the timer finishes, the ring should change from red to green and an alert .
 <br>
 
 <p align="left">
-<a href="https://github.com/jaenfigueroa/JaenCraft"><img src="./assets/jaencraft.png" width="250px" align="left" /></a><br>
+<a href="https://github.com/jaenfigueroa/JaenCraft"><img src="./assets/jaencraft.png" width="260px" align="left" /></a>
 <a href="https://github.com/jaenfigueroa/JaenCraft" ><strong>JaenCraft</strong></a>
 <br>Minecraft Game made with pure css and javascript.
 <br>Users should be able to:
