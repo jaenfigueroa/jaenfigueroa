@@ -48,7 +48,7 @@
 
 
 
-<table><tr><td valign="top" >
+<!--<table><tr><td valign="top" >
 
 ### Frontend
 
@@ -80,7 +80,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="90px" height="70px" />
 
 </div> 
-</td></tr></table>
+</td></tr></table> -->
 
 ## 💡 My latest projects
 
