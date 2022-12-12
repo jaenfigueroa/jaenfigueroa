@@ -24,7 +24,7 @@
 ## 🚀 My Skill Set
 
 <div>
-<img src="./assets/arbolito6.gif"  width="65%" />
+<img src="./assets/arbolito7.gif"  width="65%" />
 </div>
 
 
