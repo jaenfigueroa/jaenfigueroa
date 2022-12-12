@@ -120,7 +120,7 @@ To change the landscape, use the L key...
 
 <br>
 
-## :octocat: Github Stats
+<!-- ## :octocat: Github Stats
 
 
 <div align="center">
@@ -129,7 +129,7 @@ To change the landscape, use the L key...
     
 <img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true"  width="49%" /> 
 
-</div>
+</div> -->
 
 
 ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
