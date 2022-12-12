@@ -120,7 +120,7 @@ To change the landscape, use the L key...
 
 <br>
 
-## 🚀 Github Stats
+## :octocat: Github Stats
 
 
 <div align="center">
