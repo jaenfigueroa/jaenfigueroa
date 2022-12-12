@@ -36,9 +36,7 @@
 <img src="https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=nodejs&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
-
-
+</p> -->
 
 
 <div>
