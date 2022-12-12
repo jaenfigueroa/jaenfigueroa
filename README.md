@@ -124,9 +124,9 @@ To change the landscape, use the L key...
 
 <div align="center">
     
-<img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true" width="47%" />
     
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true"  width="50%" /> 
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true"  width="47%" /> 
 
 </div>
 
