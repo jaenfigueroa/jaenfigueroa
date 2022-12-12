@@ -39,11 +39,14 @@
 </p>
 
 
-<div>
-<img src="./assets/arbolito4.gif"  width="68%" />
-</div> -->
 
-<img src="./assets/arbolito5.gif"  width="68%" align="right"/>
+
+<div>
+<img src="./assets/arbolito5.gif"  width="68%" />
+</div>
+
+
+
 
 <table><tr><td valign="top" >
 
