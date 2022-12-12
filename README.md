@@ -43,7 +43,7 @@
 <img src="./assets/arbolito4.gif"  width="68%" />
 </div> -->
 
-<img src="./assets/arbolito4.gif"  width="68%" align="right"/>
+<img src="./assets/arbolito5.gif"  width="68%" align="right"/>
 
 <table><tr><td valign="top" >
 
