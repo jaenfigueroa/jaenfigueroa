@@ -99,7 +99,7 @@ Users should be able to:
 Start the timer by clicking on the start link/button.
 Once the user clicks start, the word start will change to stop. <br>Then, the user can click on the stop button to make the timer stop.<br>
 Click on the gear icon to change the length (minutes and seconds) of the timer.<br>
-Once the timer finishes, the ring should change from red to green and an alert ...
+Once the timer finishes, the ring should change from red to green and...
 </p>
 
 <br>
