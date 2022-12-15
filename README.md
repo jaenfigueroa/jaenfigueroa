@@ -6,7 +6,7 @@
 <a href="https://twitter.com/JaenDeveloper" target="blank">
 <img src=https://img.shields.io/twitter/follow/JaenDeveloper?labelColor=2b2b2b&logoColor=white&logo=twitter&style=for-the-badge&color=555555 alt=twitter style="margin-bottom: 5px;"  />
 </a>
-<!-- <a href="https://twitter.com/JaenDeveloper" target="blank">
+<!-- <a href="https://twitter.com/jaenfigueroa_" target="blank">
 <img src=https://img.shields.io/badge/twiiter-%232E87FB?color=2b2b2b&style=for-the-badge&logo=twitter&logoColor=white alt=twitter  />
 </a> -->
 <a href="https://www.facebook.com/JaenDeveloper" target="blank">
