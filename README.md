@@ -21,7 +21,7 @@
 ## 🚀 My Skill Set
 
 
-<p>
+<!-- <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
@@ -39,11 +39,11 @@
 
 <div>
 <img src="./assets/arbolito7.gif"  width="65%" />
-</div>
+</div> -->
 
 
 
-<!-- <table><tr><td valign="top" >
+<table><tr><td valign="top" >
 
 ### Frontend
 
@@ -75,7 +75,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="90px" height="70px" />
 
 </div> 
-</td></tr></table> -->
+</td></tr></table>
 
 ## 💡 My latest projects
 
