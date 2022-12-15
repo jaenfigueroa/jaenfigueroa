@@ -20,10 +20,6 @@
 
 ## 🚀 My Skill Set
 
-<div>
-<img src="./assets/arbolito7.gif"  width="65%" />
-</div>
-
 
 <p>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
@@ -41,6 +37,9 @@
 </p>
 
 
+<div>
+<img src="./assets/arbolito7.gif"  width="65%" />
+</div>
 
 
 
