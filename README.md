@@ -130,3 +130,78 @@ To change the landscape, use the L key...
 
 
 <!-- ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg) -->
+
+
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
+<h2>:octocat: My GitHub Stats</h2>
+
+<details>
+<summary>General Stats</summary>
+    
+
+<a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/jaenfigueroa?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+<a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/jaenfigueroa?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+<a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/jaenfigueroa?color=181717&style=for-the-badge&labelColor=7E3ACE"></a>
+
+    
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true)
+
+</details>
+
+
+
+
+
+
+<details>
+<summary>Top languages</summary>
+    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&theme=tokyonight&height=180em)](https://github.com/jaenfigueroa/github-readme-stats)
+    
+<p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+    
+</details>
+
+
+
+
+
+
+
+<details>
+<summary>Streak stats</summary>
+    
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaenfigueroa&theme=nightowl&background=212121&fire=ACAFFE&sideNums=ACAFFE)](https://git.io/streak-stats)
+    
+</details>
+
+
+
+
+
+
+<details>
+<summary>Contribution Graph</summary>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaenfigueroa&theme=github&area=true&hide_border=true)](https://github.com/jaenfigueroa/github-readme-activity-graph)
+
+</details>
+
+
+
+
+
+
+<details>
+<summary>Achievements</summary>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=darkhub&no-frame=true&column=7" width=100%>
+</a>
+</details>
