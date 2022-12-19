@@ -150,7 +150,7 @@ To change the landscape, use the L key...
 
     
     
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true)
 
 </details>
 
@@ -165,7 +165,7 @@ To change the landscape, use the L key...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&theme=tokyonight&height=180em)](https://github.com/jaenfigueroa/github-readme-stats)
     
-<p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+<!-- <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p> -->
     
 </details>
 
