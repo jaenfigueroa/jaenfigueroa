@@ -136,7 +136,7 @@ To change the landscape, use the L key...
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 
-<!-- <h2>:octocat: My GitHub Stats</h2>
+<h2>:octocat: My GitHub Stats</h2>
 
 <details>
 <summary>General Stats</summary>
@@ -150,7 +150,7 @@ To change the landscape, use the L key...
 
     
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true) -->
 
 </details>
 
@@ -196,4 +196,4 @@ To change the landscape, use the L key...
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=darkhub&no-frame=true&column=7" width=100%>
 </a>
-</details> -->
+</details>
