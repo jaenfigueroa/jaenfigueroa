@@ -142,11 +142,11 @@ To change the landscape, use the L key...
 <summary>General Stats</summary>
     
 
-<a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/jaenfigueroa?color=181717&style=for-the-badge&labelColor=8f88fe"></a>
-<a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/jaenfigueroa?color=181717&style=for-the-badge&labelColor=8f88fe"></a>
-<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=8f88fe"></a>
-<a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=8f88fe"></a>
-<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/jaenfigueroa?color=181717&style=for-the-badge&labelColor=8f88fe"></a>
+<a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/jaenfigueroa?color=181717&style=for-the-badge&labelColor=635fb1"></a>
+<a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/jaenfigueroa?color=181717&style=for-the-badge&labelColor=635fb1"></a>
+<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=635fb1"></a>
+<a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=635fb1"></a>
+<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/jaenfigueroa?color=181717&style=for-the-badge&labelColor=635fb1"></a>
 
     
     
