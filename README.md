@@ -142,48 +142,16 @@ To change the landscape, use the L key...
 <summary>General Stats</summary>
     
 
-<a href="https://badges.strrl.dev"><img alt="github repos" src="https://badges.strrl.dev/repos/jaenfigueroa?color=181717&style=for-the-badge&labelColor=726ccb"></a>
-<a href="https://badges.strrl.dev"><img alt="commits today" src="https://badges.strrl.dev/commits/daily/jaenfigueroa?color=181717&style=for-the-badge&labelColor=726ccb"></a>
-<a href="https://badges.strrl.dev"><img alt="commits this week" src="https://badges.strrl.dev/commits/weekly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=726ccb"></a>
-<a href="https://badges.strrl.dev"><img alt="commits this month" src="https://badges.strrl.dev/commits/monthly/jaenfigueroa?color=181717&style=for-the-badge&labelColor=726ccb"></a>
-<a href="https://badges.strrl.dev"><img alt="all commits" src="https://badges.strrl.dev/commits/all/jaenfigueroa?color=181717&style=for-the-badge&labelColor=726ccb"></a>
-
-    
-    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true)
 
 
-
-
-
-## 1
-
-
-    
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&theme=tokyonight&width=700px)](https://github.com/jaenfigueroa/github-readme-stats)
-    
-    
-
-
-
-
-    
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaenfigueroa&theme=tokyonight&background=212121&fire=ACAFFE&sideNums=ACAFFE)](https://git.io/streak-stats)
     
-
-
-
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaenfigueroa&theme=github&area=true&hide_border=true)](https://github.com/jaenfigueroa/github-readme-activity-graph)
 
 
+<img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=darkhub&no-frame=true&column=7" width=100%>
 
 
-
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=darkhub&no-frame=true&column=7" width=100%>
-</a>
 </details>
