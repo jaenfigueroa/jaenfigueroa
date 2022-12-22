@@ -111,6 +111,4 @@ To change the landscape, use the L key...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default)](https://git.io/streak-stats)
 
-![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
-    
 </details>
