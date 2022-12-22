@@ -152,47 +152,37 @@ To change the landscape, use the L key...
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true)
 
-</details>
 
 
 
 
 
 
-<details>
-<summary>Top languages</summary>
+
     
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&theme=tokyonight&height=180em)](https://github.com/jaenfigueroa/github-readme-stats)
     
-<p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
     
-</details>
 
 
 
 
-<details>
-<summary>Streak stats</summary>
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=jaenfigueroa&theme=tokyonight&background=212121&fire=ACAFFE&sideNums=ACAFFE)](https://git.io/streak-stats)
     
-</details>
 
-
-
-<details>
-<summary>Contribution Graph</summary>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaenfigueroa&theme=github&area=true&hide_border=true)](https://github.com/jaenfigueroa/github-readme-activity-graph)
-
-</details>
 
 
 
 
-<details>
-<summary>Achievements</summary>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaenfigueroa&theme=github&area=true&hide_border=true)](https://github.com/jaenfigueroa/github-readme-activity-graph)
+
+
+
+
+
+
 <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=darkhub&no-frame=true&column=7" width=100%>
 </a>
