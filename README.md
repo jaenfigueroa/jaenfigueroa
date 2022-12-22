@@ -135,11 +135,8 @@ To change the landscape, use the L key...
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-
-<h2>:octocat: My GitHub Stats</h2>
-
 <details>
-<summary>  ## :octocat: My GitHub Stats </summary>
+<summary> My GitHub Stats </summary>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
 
