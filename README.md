@@ -6,9 +6,6 @@
 <a href="https://twitter.com/jaenfigueroa_" target="blank">
 <img src=https://img.shields.io/twitter/follow/jaenfigueroa_?labelColor=2b2b2b&logoColor=white&logo=twitter&style=for-the-badge&color=555555 alt=twitter style="margin-bottom: 5px;"  />
 </a>
-<!-- <a href="https://twitter.com/jaenfigueroa_" target="blank">
-<img src=https://img.shields.io/badge/twiiter-%232E87FB?color=2b2b2b&style=for-the-badge&logo=twitter&logoColor=white alt=twitter  />
-</a> -->
 <a href="https://www.facebook.com/JaenDeveloper" target="blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?color=2b2b2b&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
@@ -18,29 +15,11 @@
 <img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS&style=for-the-badge" height="28px"/>
 </div>
 
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+
 ## 🚀 My Skill Set
-
-
-<!-- <p>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/sass-%23323330.svg?style=for-the-badge&logo=sass&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=2b2b2b" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/github-%23323330.svg?style=for-the-badge&logo=github&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/nodejs-%23323330.svg?style=for-the-badge&logo=nodejs&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/express-%23323330.svg?style=for-the-badge&logo=express&logoColor=white" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/mongodb-%23323330.svg?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 4px;" height="30px">
-</p>
-
-
-<div>
-<img src="./assets/arbolito7.gif"  width="65%" />
-</div> -->
-
 
 
 <table><tr><td valign="top" >
@@ -76,6 +55,9 @@
 
 </div> 
 </td></tr></table>
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
+
 
 ## 💡 My latest projects
 
@@ -116,20 +98,7 @@ To change the landscape, use the L key...
 </p>
 
 <br>
-
-<!-- ## :octocat: Github Stats
-
-
-<div align="center">
-    
-<img src="https://github-readme-stats.vercel.app/api?username=jaenfigueroa&show_icons=true" width="49%" />
-    
-<img src="http://github-readme-streak-stats.herokuapp.com?user=jaenfigueroa&count_private=true&show_icons=true"  width="49%" /> 
-
-</div> -->
-
-
-<!-- ![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg) -->
+<br>
 
 
 
@@ -142,4 +111,6 @@ To change the landscape, use the L key...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default)](https://git.io/streak-stats)
 
+![snake svg](https://github.com/wavescats/wavescats/blob/output/github-contribution-grid-snake.svg)
+    
 </details>
