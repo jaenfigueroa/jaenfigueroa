@@ -139,18 +139,10 @@ To change the landscape, use the L key...
 <h2>:octocat: My GitHub Stats</h2>
 
 <details>
-<summary>General Stats</summary>
+<summary>  ## :octocat: My GitHub Stats </summary>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default)](https://git.io/streak-stats)
-
-    
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaenfigueroa&theme=github&area=true&hide_border=true)](https://github.com/jaenfigueroa/github-readme-activity-graph)
-
-
-<img alt="github achievements" src="https://github-profile-trophy.vercel.app/?username=jaenfigueroa&theme=darkhub&no-frame=true&column=7" width=100%>
-
 
 </details>
