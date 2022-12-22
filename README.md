@@ -106,6 +106,8 @@ To change the landscape, use the L key...
 
 <details>
 <summary> My GitHub Stats </summary>
+
+<br>
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
 
