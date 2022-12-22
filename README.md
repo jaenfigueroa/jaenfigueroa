@@ -142,10 +142,10 @@ To change the landscape, use the L key...
 <summary>General Stats</summary>
     
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&theme=tokyonight&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jaenfigueroa&theme=tokyonight&background=212121&fire=ACAFFE&sideNums=ACAFFE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jaenfigueroafire=ACAFFE&sideNums=ACAFFE)](https://git.io/streak-stats)
     
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jaenfigueroa&theme=github&area=true&hide_border=true)](https://github.com/jaenfigueroa/github-readme-activity-graph)
