@@ -161,7 +161,7 @@ To change the landscape, use the L key...
 
     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&theme=tokyonight&width=180em)](https://github.com/jaenfigueroa/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&count_private=true&theme=tokyonight&width=700px)](https://github.com/jaenfigueroa/github-readme-stats)
     
     
 
