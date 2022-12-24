@@ -113,7 +113,7 @@ To change the landscape, use the L key...
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default)](https://git.io/streak-stats)
 
-<img width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&langs_count=10"/>
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&langs_count=10"/>
 
 ![Snake animation](https://github.com/jaenfigueroa/jaenfigueroa/blob/main/assets/snake.svg)
   
