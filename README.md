@@ -97,8 +97,6 @@ To change character, use the K key.
 To change the landscape, use the L key...
 </p>
 
-<br>
-
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 ## :octocat: My GitHub Stats
