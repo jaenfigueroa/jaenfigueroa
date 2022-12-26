@@ -108,9 +108,9 @@ To change the landscape, use the L key...
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&langs_count=10"/> -->
 
-<details>
+<!-- <details>
 <summary> </summary>
 
 ![Snake animation](https://github.com/jaenfigueroa/jaenfigueroa/blob/main/assets/snake.svg)
   
-</details>
+</details> -->
