@@ -59,7 +59,7 @@
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 
-## 💡 My latest projects
+## 💡 My Latest Projects
 
 <p align="left">
 <a href="https://github.com/jaenfigueroa/eCommerce"><img src="./assets/ecommerce.png" width="260px" align="left" /></a>
