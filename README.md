@@ -67,7 +67,7 @@
 <br>This project is a Pokemon-themed website built with React.js and the PokeAPI.
 Users can:
 Search for a Pokémon by name and get suggestions based on matches.
-Browse a list of more than 800 Pokémon cards, divided into pages, save as a favorite, change the language of the application between 3 languages, Spanish, English and Portuguese<br>
+Browse a list of more than 800 Pokémon cards, divided into pages, save as favorites or remove them, move them from position to the user's taste, change the language of the application between 3 languages, Spanish, English and Portuguese, saving the changes for at next session<br>
 
 <br>
 
