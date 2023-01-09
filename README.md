@@ -62,7 +62,7 @@
 ## 💡 My Latest Projects
 
 <p align="left">
-<a href="https://github.com/jaenfigueroa/PokeZone"><img src="./assets/pokezone4.png" width="260px" align="left" /></a>
+<a href="https://github.com/jaenfigueroa/PokeZone"><img src="./assets/pokezone3.png" width="260px" align="left" /></a>
 <a href="https://github.com/jaenfigueroa/PokeZone" ><strong>PokeZone</strong></a>
 <br>This project is a Pokemon-themed website built with React.js and the PokeAPI.
 Users can:
