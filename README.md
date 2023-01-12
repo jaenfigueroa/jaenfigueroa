@@ -112,6 +112,7 @@ To change the landscape, use the L key...
 
 <details>
 <summary> </summary>
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default)](https://git.io/streak-stats)
