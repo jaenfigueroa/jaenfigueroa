@@ -110,17 +110,12 @@ To change the landscape, use the L key...
 <br>
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-## :octocat: My GitHub Stats
-
+<details>
+<summary> </summary>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default)](https://git.io/streak-stats)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaenfigueroa&layout=compact&langs_count=10"/> -->
-
-<!-- <details>
-<summary> </summary>
-
 ![Snake animation](https://github.com/jaenfigueroa/jaenfigueroa/blob/main/assets/snake.svg)
   
-</details> -->
+</details>
