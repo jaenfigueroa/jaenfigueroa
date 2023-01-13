@@ -115,4 +115,3 @@ To change the landscape, use the L key...
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default)
 
-![Snake animation](https://github.com/jaenfigueroa/jaenfigueroa/blob/main/assets/snake.svg)
