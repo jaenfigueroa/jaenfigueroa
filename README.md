@@ -19,7 +19,7 @@
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 
-## 🚀 My Skill Set
+## 🚀 Skill Set
 
 
 <table><tr><td valign="top" >
@@ -59,7 +59,7 @@
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 
-## 💡 My Latest Projects
+## 💡 Latest Projects
 
 <p align="left">
 <a href="https://github.com/jaenfigueroa/PokeZone"><img src="./assets/pokezone3.png" width="260px" align="left" /></a>
@@ -112,7 +112,7 @@ To change the landscape, use the L key...
 
 
 
-## :octocat: My Github Stats
+## :octocat: Github Stats
 
 ![jaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
 
