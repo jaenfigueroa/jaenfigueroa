@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/portadax-min.gif" /> 
+<img src="portadax-min.gif" /> 
 </div>
 
 <div>
