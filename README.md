@@ -25,8 +25,8 @@
 ### Frontend
 
 <div > 
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" /> &nbsp; -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="70px" /> &nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="65px" height="65px" />  &nbsp; &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" height="65px" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="70px" height="70px" /> 
