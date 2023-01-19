@@ -41,17 +41,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="63px" />&nbsp;
 <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" />
     
-    
-<!-- <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="70px" height="70px" /> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" width="70px" height="70px" />  &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="65px" height="65px" />  &nbsp; &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" height="65px" /> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="70px" /> &nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" /> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="80px" height="75px" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  height="63px" />&nbsp;
-<img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" />  -->
-
 </div>
 </td><td valign="top" >
 
