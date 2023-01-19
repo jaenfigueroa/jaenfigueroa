@@ -46,7 +46,7 @@
 <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"  height="65" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="65px" /> &nbsp;
 <!-- <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="70" /> &nbsp; -->
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="70" /> &nbsp;
+<!-- <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="70" /> &nbsp; -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355" height="70px" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="70px" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="70px" width="210px" /> &nbsp;
