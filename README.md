@@ -28,7 +28,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="70px" /> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="65px" height="65px" />  &nbsp; &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" height="65px" /> &nbsp;<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png?20221110153201" height="65px" /> &nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="65px" width="70px"  /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="65px" width="70px"/>  &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="75px" width="80px" />&nbsp;
