@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/portada2.gif" /> 
+<img src="./assets/portadax-min.gif" /> 
 </div>
 
 <div>
