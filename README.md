@@ -43,7 +43,7 @@
 
 <div  >
 
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"  height="65" />
+<!-- <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg"  height="65" /> -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="65px" /> &nbsp;
 <!-- <img src="https://profilinator.rishav.dev/skills-assets/powershell.png" height="70" /> &nbsp; -->
 <!-- <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="70" /> &nbsp; -->
