@@ -48,8 +48,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/885px-Node.js_logo.svg.png?20170401104355" height="70px" /> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="70px" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" height="70px" width="210px" /> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="90px" height="70px" />
-<!-- <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="70" /> &nbsp; -->
 
 </div> 
 </td></tr></table>
