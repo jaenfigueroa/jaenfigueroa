@@ -34,7 +34,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" /> &nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="80px" height="75px" />&nbsp;
 <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="60px" />&nbsp; -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  height="65px" />&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"  height="60px" />&nbsp;
 <!-- <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="65" />  -->
 
 </div>
