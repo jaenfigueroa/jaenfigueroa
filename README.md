@@ -7,8 +7,14 @@
 <img src=https://img.shields.io/twitter/follow/jaenfigueroa_?labelColor=2b2b2b&logoColor=white&logo=twitter&style=for-the-badge&color=555555 alt=twitter style="margin-bottom: 5px;"  />
 </a>
 </a>
+
+<a href="https://twitter.com/jaenfigueroa_" target="blank">
+<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?color=2b2b2b&style=for-the-badge&logo=twitter&logoColor=white  style="margin-bottom: 5px;" />
+</a>
+
+
 <a href="https://linkedin.com/in/jaenfigueroa" target="blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?color=2b2b2b&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?color=2b2b2b&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 </a>
 <img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS&style=for-the-badge" height="28px"/>
 </div>
