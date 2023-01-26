@@ -37,7 +37,6 @@
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-<!-- 
 ## 💡 Latest Projects
 
 <p align="left">
@@ -84,5 +83,5 @@ To jump, use the Space Bar.
 For dap gesture, hold G.
 To change character, use the K key.
 To change the landscape, use the L key...
-</p> -->
+</p>
 
