@@ -42,10 +42,10 @@
 ### Backend
 
 <div  >
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"  height="55" />&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="55px" />&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"  height="57" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="58px" />&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"  height="55" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="55px" />&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"  height="57" />&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="58px" />&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60px" />
 </div> 
 </td></tr></table>
