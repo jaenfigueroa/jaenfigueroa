@@ -37,7 +37,7 @@
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-## 💡 Latest Projects
+<!-- ## 💡 Latest Projects
 
 <p align="left">
 <a href="https://github.com/jaenfigueroa/PokeZone"><img src="./assets/pokezone3.png" width="260px" align="left" /></a>
@@ -83,5 +83,5 @@ To jump, use the Space Bar.
 For dap gesture, hold G.
 To change character, use the K key.
 To change the landscape, use the L key...
-</p>
+</p> -->
 
