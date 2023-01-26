@@ -41,7 +41,7 @@
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-
+<!-- 
 ## 💡 Latest Projects
 
 <p align="left">
@@ -88,15 +88,5 @@ To jump, use the Space Bar.
 For dap gesture, hold G.
 To change character, use the K key.
 To change the landscape, use the L key...
-</p>
-
-<!--  </br>
-
-
-
-## :octocat: Github Stats
-
-![jaen's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaenfigueroa&count_private=true&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=jaenfigueroa&theme=default) -->
+</p> -->
 
