@@ -39,6 +39,7 @@
 <a href="https://github.com/jaenfigueroa/PokeZone" ><strong>Countries</strong></a>
 <br>This project is a country-themed website built with React.js and the restCountries Api. Users can: filter a list of countries, by name, continent, capital, language, currency, and also sort the list as the user wishes, by clicking on the card they can see more detailed information about the country like, flag, coat of arms, climate, time, population, area, currency, date, time, temperature, phone code, map, neighbouring countries. 
 <br>
+  <br><br>
   
 <p align="left">
 <a href="https://github.com/jaenfigueroa/PokeZone"><img src="./assets/pokezone3.png" width="260px" align="left" /></a>
