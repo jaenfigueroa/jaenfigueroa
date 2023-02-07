@@ -47,11 +47,7 @@ Browse a list of more than 800 Pokémon cards, divided into pages, save as favor
 <p align="left">
 <a href="https://github.com/jaenfigueroa/PokeZone"><img src="./assets/pokezone3.png" width="260px" align="left" /></a>
 <a href="https://github.com/jaenfigueroa/PokeZone" ><strong>PokeZone</strong></a>
-<br>This project is a Pokemon-themed website built with React.js and the PokeAPI.
-Users can:
-Search for a Pokémon by name and get suggestions based on matches.
-Browse a list of more than 800 Pokémon cards, divided into pages, save as favorites or remove them, move them from position to the user's taste, change the language of the application between 3 languages, Spanish, English and Portuguese, saving the changes for at next session...<br>
-
+<br>This project is a country-themed website built with React.js and the restCountries Api. Users can: filter a list of countries, by name, continent, capital, language, currency, and also sort the list as the user wishes, ...
 <br>
 
 <p align="left">
