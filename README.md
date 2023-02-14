@@ -71,5 +71,5 @@ To change the landscape, use the L key...
 <br/>
 
 <div align=end>
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views" height=0/>
 </div>
