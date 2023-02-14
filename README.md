@@ -24,7 +24,7 @@
 
 ### Frontend  
 <div>  
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="65px" width="70px"  /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="65px" width="70px"/>  &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="65px" height="65px" />  &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="65px" />&nbsp;&nbsp;&nbsp;<br/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="70px" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="70px" width="80px"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="65px" width="70px"  /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="65px" width="70px"/>  &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="65px" height="65px" />  &nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="65px" />&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="70px" />&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="70px" width="80px"/>
 </div>
 
 </td><td valign="top" width="33%">
