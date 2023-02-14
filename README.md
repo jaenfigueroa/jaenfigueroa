@@ -2,20 +2,6 @@
 <img src="portadax-min.gif" /> 
 </div>
 
-<!-- /////////////////////////////////// -->
-<div>
-
-<!-- <a href="https://linkedin.com/in/jaenfigueroa" target="blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?color=2b2b2b&style=for-the-badge&logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://twitter.com/jaenfigueroa_" target="blank">
-<img src=https://img.shields.io/badge/twitter-%231E77B5.svg?color=2b2b2b&style=for-the-badge&logo=twitter&logoColor=white  style="margin-bottom: 5px;" />
-</a> -->
-
-<img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS&style=for-the-badge" height="28px"/>
-</div>
-
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -82,3 +68,6 @@ To change character, use the K key.
 To change the landscape, use the L key...
 </p>
 
+<div>
+<img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS&style=for-the-badge" height="28px"/>
+</div>
