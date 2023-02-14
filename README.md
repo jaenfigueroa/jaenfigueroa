@@ -69,5 +69,6 @@ To change the landscape, use the L key...
 </p>
 
 <div>
-<img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS&style=for-the-badge" height="28px"/>
+<!-- <img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS&style=for-the-badge" height="28px"/> -->
+<img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS" height="28px"/>
 </div>
