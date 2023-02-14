@@ -27,6 +27,7 @@
     <a href="https://github.com/jaenfigueroa/eCommerce"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/ecommerce.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/Pomodoro-timer"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/reloj.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/JaenCraft"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/jaencraft.png" width="260px"/></a>
+    <a href="https://github.com/jaenfigueroa/web-portfolio"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/portafolio.png" width="260px"/></a>
 </div>
 
 <!-- 
