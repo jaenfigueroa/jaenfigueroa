@@ -2,6 +2,10 @@
 <img src="portadax-min.gif" /> 
 </div> -->
 
+<div align=right>
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views" height=0/>
+</div>
+
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 ## 💡 Latest Projects
@@ -104,6 +108,4 @@ To change character, use the K key.
 To change the landscape, use the L key...
 </p> -->
 
-<div align=end>
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views" height=0/>
-</div>
+
