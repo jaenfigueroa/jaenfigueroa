@@ -2,7 +2,7 @@
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-## 💡 Latest Projects
+## 🎉 Latest Projects
 
 <div>
     <a href="https://github.com/jaenfigueroa/Countries"><img src="https://github.com/jaenfigueroa/Countries/blob/main/assets/paises2.png" width="260px" /></a>
