@@ -31,7 +31,7 @@
 
 ### Backend  
 <div>  
-<img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg"  height="65" />&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" height="65px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="68px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="75px" /><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="75px" />
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="68px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="75px" /><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="75px" />
 </div>
 
 </td>
