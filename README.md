@@ -1,10 +1,4 @@
-<!-- <div align="center">
-<img src="portadax-min.gif" /> 
-</div> -->
-
-<div align=right>
-<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views" height=0/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views" height=0 align=right/>
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////// -->
 
