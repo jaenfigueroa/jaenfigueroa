@@ -68,6 +68,9 @@ To change character, use the K key.
 To change the landscape, use the L key...
 </p>
 
+<br/>
+<br/>
+
 <div>
 <!-- <img src="https://komarev.com/ghpvc/?labelColor=555555&color=2b2b2b&username=jaenfigueroa&label=PROFILE VIEWS&style=for-the-badge" height="28px"/> -->
 <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views"/>
