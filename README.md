@@ -5,7 +5,7 @@
 ## 🎉 Latest Projects
 
 <div>
-    <a href="https://github.com/GaredLyon/Tu-Du-Lyzt"><img src="./assets/tudu1.png" width="260px" /></a>
+    <a href="https://github.com/GaredLyon/Tu-Du-Lyzt"><img src="./assets/tudu5.png" width="260px" /></a>
     <a href="https://github.com/jaenfigueroa/Countries"><img src="https://github.com/jaenfigueroa/Countries/blob/main/assets/paises2.png" width="260px" /></a>
     <a href="https://github.com/jaenfigueroa/PokeZone"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/pokezone3.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/web-portfolio"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/portafolio.png" width="260px"/></a>
