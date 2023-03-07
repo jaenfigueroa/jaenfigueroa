@@ -1,7 +1,3 @@
-<!-- <img src="https://komarev.com/ghpvc/?username=jaenfigueroa&label=Profile Views" height=0 align=right/> -->
-
-<!-- /////////////////////////////////////////////////////////////////////////////////////////////////
-
 ## 🎉 Latest Projects
     
 <div>
