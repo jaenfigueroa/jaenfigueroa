@@ -3,7 +3,6 @@
 <!-- /////////////////////////////////////////////////////////////////////////////////////////////////
 
 ## 🎉 Latest Projects
-    <!-- <a href="https://github.com/jaenfigueroa/Quizz-Code"><img src="./assets/quizz3.png" width="260px" /></a>  -->
     
 <div>
     <a href="https://github.com/jaenfigueroa/Quizz-Code"><img src="./assets/quizz8.png" width="260px" /></a>
