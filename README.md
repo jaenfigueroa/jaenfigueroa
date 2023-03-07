@@ -7,7 +7,7 @@
 <div>
     <!-- <a href="https://github.com/jaenfigueroa/Quizz-Code"><img src="./assets/quizz3.png" width="260px" /></a>  -->
     <a href="https://github.com/jaenfigueroa/Quizz-Code"><img src="./assets/quizz5.png" width="260px" /></a>
-    <a href="https://github.com/jaenfigueroa/Quizz-Code"><img src="./assets/quizz6.png" width="260px" /></a>
+    <!--  <a href="https://github.com/jaenfigueroa/Quizz-Code"><img src="./assets/quizz6.png" width="260px" /></a> -->
     <a href="https://github.com/GaredLyon/Tu-Du-Lyzt"><img src="./assets/tudu1.png" width="260px" /></a>
     <a href="https://github.com/jaenfigueroa/Countries"><img src="https://github.com/jaenfigueroa/Countries/blob/main/assets/paises2.png" width="260px" /></a>
     <a href="https://github.com/jaenfigueroa/PokeZone"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/pokezone3.png" width="260px"/></a>
