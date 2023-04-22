@@ -10,7 +10,6 @@
     <a href="https://github.com/jaenfigueroa/JaenCraft"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/jaencraft.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/eCommerce"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/ecommerce.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/Pomodoro-timer"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/reloj.png" width="260px"/></a>
-<!--     <a href="https://github.com/jaenfigueroa/Halloween-Pumpkin"><img src="./assets/halloween.png" width="260px" /></a> -->
 </div>
 
 
@@ -19,7 +18,7 @@
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="65px" /> <!-- REACT -->
 <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="65px" height="65px" /> <!-- TS -->
-<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="65px" height="63px" /> <!-- JS --> 
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="65px" height="63px" /> <!-- JS --> &nbsp;
 <img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="65px" height="65px" /> <!-- SASS -->
 <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="65px" height="65px" /> <!-- NODEJS -->
 <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="65px" height="65px" /> <!-- EXPRESS -->
