@@ -16,9 +16,15 @@
 
 ## 🛠️ Skills
 
-<div>  
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="65px" width="70px"  /> <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="65px" width="70px"/>  &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="65px" height="65px" />&nbsp; &nbsp;<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="65px" />&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="70px" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="70px" width="80px"/>&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" height="68px" />&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="75px" /><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="75px" /><img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="65px" height="65px" />
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="75px" height="65px" /> <!-- REACT -->
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="65px" height="65px" /> <!-- TS -->
+<img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="65px" height="63px" /> <!-- JS --> 
+<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" width="65px" height="65px" /> <!-- SASS -->
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" width="65px" height="65px" /> <!-- NODEJS -->
+<img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" width="65px" height="65px" /> <!-- EXPRESS -->
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" width="65px" height="65px" /> <!-- MONGO DB -->
+<img src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" width="65px" height="65px" /> <!-- JEST -->
 </div>
 
-<!--&nbsp;&nbsp;&nbsp;<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="65px" height="70px" />-->
 
