@@ -15,6 +15,6 @@
 
 ## 🛠️ Skills
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass,vite"></img>
 
 
