@@ -17,7 +17,7 @@
 <details>
   <summary>Skills 🛠️</summary></br>
 <!--   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img> -->
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,supabase,bash,jest,redux,html,css,sass,tailwind,md,git"></img>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,supabase,bash,powershell,jest,redux,html,css,sass,bootstrap,tailwind,threejs,md,git,linux,heroku,netlify,vercel,regex,vscode"></img>
 
 
 </details>
@@ -38,6 +38,7 @@
   
   <a href="https://www.linkedin.com/in/jaenfigueroa/"><img src="https://skillicons.dev/icons?i=linkedin"></img></a>
   <a href="https://twitter.com/jaenfigueroa_"><img src="https://skillicons.dev/icons?i=twitter"></img></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=discord"></img></a>
     
 </details>
 
