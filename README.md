@@ -34,7 +34,7 @@
 </details>
 
 <details>
-  <summary>Redes Sociales 🌐</summary></br>
+  <summary>Social 🌐</summary></br>
   
   <a href="https://www.linkedin.com/in/jaenfigueroa/"><img src="https://skillicons.dev/icons?i=linkedin"></img></a>
   <a href="https://twitter.com/jaenfigueroa_"><img src="https://skillicons.dev/icons?i=twitter"></img></a>
