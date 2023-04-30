@@ -15,13 +15,13 @@
 </br>
 
 <details>
-  <summary>Skills 🛠️</summary>
+  <summary>Skills 🛠️</summary></br>
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img>
 </details>
 
 <details>
-  <summary>GitHub Stats :octocat:</summary>
-    
+  <summary>GitHub Stats :octocat:</summary></br>
+  
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaenfigueroa&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaenfigueroa&theme=monokai) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaenfigueroa&theme=monokai)
