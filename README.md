@@ -12,6 +12,7 @@
     <a href="https://github.com/jaenfigueroa/Pomodoro-timer"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/reloj.png" width="260px"/></a>
 </div>
 
+</br>
 
 <details>
   <summary>Skills 🛠️</summary>
@@ -20,9 +21,11 @@
 
 <details>
   <summary>GitHub Stats :octocat:</summary>
+    
     ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaenfigueroa&theme=monokai)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaenfigueroa&theme=monokai) 
     ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaenfigueroa&theme=monokai)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaenfigueroa&theme=monokai)
     ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=monokai&utcOffset=8)
+    
 </details>
