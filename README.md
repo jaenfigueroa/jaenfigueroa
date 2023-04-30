@@ -13,17 +13,16 @@
 </div>
 
 
-## 🛠️ Skills
-
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img>
+<details>
+  <summary>Skills 🛠️</summary>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img>
+</details>
 
 <details>
   <summary>GitHub Stats :octocat:</summary>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaenfigueroa&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaenfigueroa&theme=monokai) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaenfigueroa&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaenfigueroa&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=monokai&utcOffset=8)
-
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaenfigueroa&theme=monokai)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaenfigueroa&theme=monokai) 
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaenfigueroa&theme=monokai)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaenfigueroa&theme=monokai)
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=monokai&utcOffset=8)
 </details>
