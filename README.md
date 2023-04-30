@@ -16,7 +16,10 @@
 
 <details>
   <summary>Skills 🛠️</summary></br>
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img>
+<!--   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img> -->
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,supabase,bash,jest,redux,html,css,sass,tailwind"></img>
+
+
 </details>
 
 <details>
@@ -29,3 +32,15 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=monokai&utcOffset=8)
     
 </details>
+
+<details>
+  <summary>Redes Sociales 🌐</summary></br>
+  
+  <a href""><img src="https://skillicons.dev/icons?i=linkedin"></img></a>
+  <a href""><img src="https://skillicons.dev/icons?i=github"></img></a>
+  <a href""><img src="https://skillicons.dev/icons?i=facebook"></img></a>
+  <a href""><img src="https://skillicons.dev/icons?i=twitter"></img></a>
+    
+</details>
+
+
