@@ -17,7 +17,7 @@
 <details>
   <summary>Skills 🛠️</summary></br>
 <!--   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,vite,nodejs,express,mongodb,firebase,bash,jest,redux,html,css,sass"></img> -->
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,supabase,bash,powershell,jest,redux,html,css,sass,bootstrap,tailwind,threejs,md,git,linux,heroku,netlify,vercel,regex,vscode"></img>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,mongodb,firebase,supabase,bash,jest,redux,html,css,sass,bootstrap,tailwind,md,regex"></img>
 
 
 </details>
