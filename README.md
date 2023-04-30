@@ -23,12 +23,12 @@
 
 <details>
   <summary>GitHub Stats :octocat:</summary></br>
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaenfigueroa&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaenfigueroa&theme=aura) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaenfigueroa&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaenfigueroa&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=aura&utcOffset=8)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaenfigueroa&theme=react)  <!-- aura   -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jaenfigueroa&theme=react) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaenfigueroa&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaenfigueroa&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=react&utcOffset=8)
     
 </details>
 
