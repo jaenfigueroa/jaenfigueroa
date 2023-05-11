@@ -29,14 +29,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jaenfigueroa&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaenfigueroa&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=aura&utcOffset=8)
-    
-</details>
 
-<details>
-  <summary>Social 🌐</summary></br>
-  <a href="https://www.linkedin.com/in/jaenfigueroa/"><img src="https://skillicons.dev/icons?i=linkedin"></img></a>
-  <a href="https://twitter.com/jaenfigueroa_"><img src="https://skillicons.dev/icons?i=twitter"></img></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=discord"></img></a>
-</details>
-
+<!-- GRAFICO 3D -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
