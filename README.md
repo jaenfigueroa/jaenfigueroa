@@ -1,5 +1,5 @@
-## 🎉 Latest Projects
-    
+## Latest Projects
+
 <div>
     <a href="https://github.com/jaenfigueroa/cifrador-de-textos"><img src="https://raw.githubusercontent.com/jaenfigueroa/text-encriptor/main/assets/enc-desktop.png" width="260px" /></a>
     <a href="https://github.com/jaenfigueroa/Quizz-Code"><img src="./assets/quizz8.png" width="260px" /></a>
@@ -11,6 +11,10 @@
     <a href="https://github.com/jaenfigueroa/eCommerce"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/ecommerce.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/Pomodoro-timer"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/reloj.png" width="260px"/></a>
 </div>
+
+# Contributions
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 </br>
 
@@ -30,6 +34,4 @@
 
 </details>
 
-<!-- GRAFICO 3D -->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
