@@ -40,6 +40,6 @@
 </details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/jaenfigueroa/jaenfigueroa/blob/output/github-contribution-grid-snake.svg)
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
