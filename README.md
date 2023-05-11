@@ -1,4 +1,4 @@
-# Latest Projects
+## Latest Projects
 
 <div>
     <a href="https://github.com/jaenfigueroa/cifrador-de-textos"><img src="https://raw.githubusercontent.com/jaenfigueroa/text-encriptor/main/assets/enc-desktop.png" width="260px" /></a>
@@ -12,11 +12,11 @@
     <a href="https://github.com/jaenfigueroa/Pomodoro-timer"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/reloj.png" width="260px"/></a>
 </div>
 
-# Skills
+## Skills
 
 <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,jest,redux,mongodb,firebase,supabase,bash,md,html,css,sass"></img>
 
-# Contributions
+## Contributions
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
