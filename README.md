@@ -17,8 +17,6 @@
 <details>
   <summary>Skills 🛠️</summary></br>
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,jest,redux,mongodb,firebase,supabase,bash,md,html,css,sass"></img>
-
-
 </details>
 
 <details>
@@ -30,5 +28,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jaenfigueroa&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jaenfigueroa&theme=aura&utcOffset=8)
 
+</details>
+
 <!-- GRAFICO 3D -->
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
