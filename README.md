@@ -38,3 +38,6 @@
   <a href="https://twitter.com/jaenfigueroa_"><img src="https://skillicons.dev/icons?i=twitter"></img></a>
   <a href=""><img src="https://skillicons.dev/icons?i=discord"></img></a>
 </details>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
