@@ -14,7 +14,7 @@
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,jest,redux,mongodb,firebase,supabase,bash,md,html,pug,css,sass"></img>
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,nodejs,express,jest,redux,mongodb,firebase,supabase,bash,html,pug,css,sass"></img>
 
 ## Contributions
 
