@@ -1,4 +1,4 @@
-## Latest Projects
+## Latest projects
 
 <div>
     <a href="https://github.com/jaenfigueroa/modelo-sakura"><img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1684180448/MI-NUBE/MODELO-SAKURA/sakura_1_mah6fr.png" width="260px"/></a>
