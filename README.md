@@ -2,9 +2,10 @@
 
 <div>
     <a href="https://github.com/jaenfigueroa/Periodic-table-of-HTML-elements-new">
-        <img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1684180448/MI-NUBE/MODELO-SAKURA/sakura_1_mah6fr.png" width="260px"/></a>
-    <a href="https://github.com/jaenfigueroa/modelo-sakura">
         <img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1686598996/MI-NUBE/PERIODIC%20TABLE/tabla-periodica_ihkvn3.png" width="260px"/>
+    </a>
+    <a href="https://github.com/jaenfigueroa/modelo-sakura">
+        <img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1684180448/MI-NUBE/MODELO-SAKURA/sakura_1_mah6fr.png" width="260px"/>
     </a>
     <a href="https://github.com/jaenfigueroa/new-portfolio-client"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/portafolio3.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/cifrador-de-textos"><img src="https://raw.githubusercontent.com/jaenfigueroa/text-encriptor/main/assets/enc-desktop.png" width="260px" /></a>
