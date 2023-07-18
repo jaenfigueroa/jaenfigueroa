@@ -19,7 +19,7 @@
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,redux,nodejs,express,nextjs,nestjs,jest,docker,git,mongodb,firebase,supabase,html,css,pug,sass,tailwind,materialui,bash"></img>
+<img src="https://skillicons.dev/icons?i=typescript,javascript,react,vite,redux,nodejs,express,nextjs,nestjs,jest,docker,git,mongodb,firebase,supabase,html,css,pug,sass,tailwind,materialui"></img>
 
 ## Contributions
 
