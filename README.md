@@ -1,3 +1,5 @@
+Good day! 👋
+
 ## Latest projects
 
 <div>
