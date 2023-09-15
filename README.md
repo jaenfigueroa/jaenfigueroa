@@ -18,8 +18,8 @@
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,nestjs,graphql,jest"></img>
-<img src="https://skillicons.dev/icons?i=docker,git,mongodb,firebase,supabase,html,css,pug,sass,tailwind,materialui"></img>
+![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,nestjs,graphql,jest)
+![](https://skillicons.dev/icons?i=docker,git,mongodb,firebase,supabase,html,css,pug,sass,tailwind,materialui)
 
 ## Contributions
 
