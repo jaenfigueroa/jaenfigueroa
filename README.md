@@ -1,4 +1,4 @@
-Good day! 👋
+# Good day! 👋
 
 ## Latest projects
 
