@@ -2,7 +2,6 @@
 
 ## Latest projects
 
-<div align="center">
 <div>
     <a href="https://github.com/jaenfigueroa/Periodic-table-of-HTML-elements-new">
         <img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1686598996/MI-NUBE/PERIODIC%20TABLE/tabla-periodica_ihkvn3.png" width="260px"/>
@@ -18,21 +17,13 @@
     <a href="https://github.com/jaenfigueroa/PokeZone"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/poke2.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/JaenCraft"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/jaencraft.png" width="260px"/></a>
 </div>
-</div>
 
 ## Skills
-
-<div align="center">
 
 ![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,nestjs,graphql,jest)
 ![](https://skillicons.dev/icons?i=docker,git,mongodb,firebase,supabase,html,css,pug,sass,tailwind,materialui)
 
-</div>
-
 ## Contributions
-
-<div align="center">
     
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-</div>
