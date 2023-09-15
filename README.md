@@ -2,6 +2,7 @@
 
 ## Latest projects
 
+<div align="center">
 <div>
     <a href="https://github.com/jaenfigueroa/Periodic-table-of-HTML-elements-new">
         <img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1686598996/MI-NUBE/PERIODIC%20TABLE/tabla-periodica_ihkvn3.png" width="260px"/>
@@ -16,6 +17,7 @@
     <a href="https://github.com/jaenfigueroa/Countries"><img src="https://github.com/jaenfigueroa/Countries/blob/main/assets/paises2.png" width="260px" /></a>
     <a href="https://github.com/jaenfigueroa/PokeZone"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/poke2.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/JaenCraft"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/jaencraft.png" width="260px"/></a>
+</div>
 </div>
 
 ## Skills
