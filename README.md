@@ -27,3 +27,4 @@
     
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+https://umane.emeal.nttdata.com/jiraito/secure/RapidBoard.jspa?projectKey=HPCPERU&rapidView=9569
