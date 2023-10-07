@@ -15,6 +15,7 @@
     <a href="https://github.com/jaenfigueroa/Countries"><img src="https://github.com/jaenfigueroa/Countries/blob/main/assets/paises2.png" width="260px" /></a>
     <a href="https://github.com/jaenfigueroa/PokeZone"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/poke2.png" width="260px"/></a>
     <a href="https://github.com/jaenfigueroa/JaenCraft"><img src="https://github.com/jaenfigueroa/jaenfigueroa/raw/main/assets/jaencraft.png" width="260px"/></a>
+    <a href="https://github.com/jaenfigueroa/cifrador-de-textos"><img src="https://github.com/jaenfigueroa/cifrador-de-textos/raw/main/assets/enc-desktop.png" width="260px"/></a>
     
 </div>
 
