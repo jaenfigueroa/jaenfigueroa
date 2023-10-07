@@ -5,6 +5,7 @@
 <div>
     <img src="https://github.com/jaenfigueroa/jaenfigueroa/blob/main/assets/vigui.png" width="260px" />
     <img src="https://github.com/jaenfigueroa/jaenfigueroa/blob/main/assets/pino.png" width="260px" />
+    <img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1686614528/MI-NUBE/VESR/PORTAFOLIO/Captura_de_pantalla_2023-06-12_185558_w6myvn.png" width="260px" />
     <a href="https://github.com/jaenfigueroa/Periodic-table-of-HTML-elements-new">
         <img src="https://res.cloudinary.com/djksz5k3c/image/upload/v1686598996/MI-NUBE/PERIODIC%20TABLE/tabla-periodica_ihkvn3.png" width="260px"/>
     </a>
