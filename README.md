@@ -1,5 +1,5 @@
 # Good day! 👋
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="1ch" />
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="10px" />
 
 ## Latest projects
 
