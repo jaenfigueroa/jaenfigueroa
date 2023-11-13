@@ -27,8 +27,8 @@
 
 ## Skills
 
-![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,nestjs,graphql,jest,md)
-![](https://skillicons.dev/icons?i=docker,git,mongodb,firebase,supabase,html,css,pug,sass,tailwind,materialui,astro)
+![](https://skillicons.dev/icons?i=react,typescript,javascript,redux,vite,nodejs,express,nextjs,nestjs,graphql,jest,md,bash)
+![](https://skillicons.dev/icons?i=docker,git,mongodb,firebase,supabase,html,css,pug,sass,tailwind,materialui,astro,linux)
 
 ## Contributions
     
